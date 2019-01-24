@@ -1,0 +1,79 @@
+D1                      Tablica D1a Konsolidirana bilanca DMFI (aktiva)
+D10                     Tablica D10 Inozmena pasiva DMFI
+D1a                     Tablica D1a Konsolidirana bilanca DMFI (pasiva)
+D6                      Tablica D6 Depozitni novac kod DMFI
+D8                      Tablica D8 Devizni depoziti kod DMFI
+E1                      Tablica E1a Agregirana bilanca investicijskih
+                        fondova (stanja)
+F1                      Tablica F1 Aktivne kamatne stope HNB-a
+F3                      Tablica F3 Obveze pricuve banaka
+G10a                    Tablica G10a Godisnji prosjeci srednjih
+                        deviznih tecajeva
+G10aM                   Tablica G10a Mjesecni prosjeci srednjih
+                        deviznih tecajeva
+G10b                    Tablica G10b Godisnji srednji devizni tecajevi
+                        HNB-a na kraju razdoblja
+G10bM                   Tablica G10b Mjesecni srednji devizni tecajevi
+                        HNB-a na kraju razdoblja
+G8aG                    Tablica G8aG Kamatne stope na trezorske zapise
+                        RH (godisnji)
+G8aM                    Tablica G8aM Kamatne stope na trezorske zapise
+                        RH (mjesecni)
+G8bG                    Tablica G8aG Prinosi do dospijeca na obveznice
+                        (godisnji)
+G8bM                    Tablica G8aM Prinosi do dospijeca na obveznice
+                        (mjesecni)
+H1                      Tablica H1 Platna bilanca - svodna tablica
+                        (EUR)
+H1b                     Tablica H1 Platna bilanca - svodna tablica
+                        (USD)
+H6                      Tablica H6 Platna bilanca - svodna tablica
+                        (HRK)
+H7                      Tablica H7 Medunarodne pricuve HNB-a i devizne
+                        pricuve banaka
+H8a                     Tablica H8a Medunarodne pricuve i devizna
+                        likvidnost Sluzbene medunarodne pricuve i
+                        ostale devizne pricuve (priblizna trzisna
+                        vrijednost)
+H8b                     Tablica H8b Medunarodne pricuve i devizna
+                        likvidnost
+H8c                     Tablica H8c Monetarni i kreditni agregati
+I1                      Tablica I1a Nefinancijski racuni opce drzave
+I1b                     Tablica I1b Nefinancijski racuni opce drzave
+I2                      Tablica I2 Glavni makroagregati opce drzave u
+                        skupu racuna ESA 2010
+I3                      Tablica I3 Dug opce drzave (ESA 2010)
+J1                      Tablica J1 Indeksi potrosackih cijena i
+                        proizvodackih cijena industrije
+J1a                     Tablica J1a Harmonizirani indeksi potrosackih
+                        cijena
+J2                      Tablica J2 Temeljni indeksi potrosakcih cijena
+J3                      Tablica J3m Indeksi cijena stambenih nekretnina
+                        (godisnje)
+J4                      Tablica J4 Prosjecne mjesecne neto place
+J5                      Tablica J5 Indeksi pouzdanja ocekivanja i
+                        raspolozenja potrosaca
+h11                     Tablica H11 Indeksi efektivnih tecajeva kune
+plotA1                  Plotanje A1
+plotBDPgodina           Plotanje godisnjeg rasta BDP-a
+plotBDPkvartal1         Plotanje kvartalni rasta BDP-a
+plotBilancaaktiva       Plotanje c1
+plotD10Inozmenapasiva   Plotanje D10
+plotDepozitninovacD6    Plotanje d6
+plotDnevniDepozitiD8    Plotanje d8
+plotE1Agregiranabilanca
+                        Plotanje e1
+plotF1                  Plotanje f1
+plotF3                  Plotanje f3
+plotIlaNefinancijskiracuni
+                        Plotanje l1
+plotInozemnaAktiva1     Plotanje d2
+plotJ1                  Plotanje j1
+plotJ2                  Plotanje j2
+plotJ3                  Plotanje j3
+plotJ5                  Plotanje j5
+plotKonsolidiranabilancaD1
+                        Plotanje gd1
+plotKunskiDepozit1      Plotanje d7
+plotPasivneKamatneStope
+                        Plotanje f2
